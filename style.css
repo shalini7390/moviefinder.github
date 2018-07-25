@@ -1,0 +1,14 @@
+
+.slide{
+	padding: 20px;
+}
+.second{
+	padding-left :100px;
+	padding-right: 100px;
+border-outline:1px;
+background: pink;
+font-weight: bolder;
+}
+#searchBtn{
+	color: black;
+}
